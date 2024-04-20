@@ -1,6 +1,9 @@
 # OA-Dashboard
 Financial analysis dashboard using Power BI on a superstore transactions dataset.
 
+## Superstore Dataset
+- This dataset was cleaned in Excel and Power BI (missing values, invalid data types, etc)
+
 ## Navigation
 ### Landing Page
 - The landing page summarizes the dataset including total sales, profit, and a month-by-month overview of both.
